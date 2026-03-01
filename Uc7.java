@@ -1,4 +1,4 @@
-public class Uc7{
+public class Uc7 {
 
     static class CharacterPatternMap {
         private char character;
