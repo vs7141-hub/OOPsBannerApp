@@ -1,6 +1,6 @@
 public class UC5 {
 	public static void main(String[] args) {
-		 string[] lines =new string[7]
+		 String[] lines = new String[7];
         lines[0] = String.join("" , "    ***    " , "    ***    " , " *******  " , "   *****  ");
 		lines[1] = String.join("" , "  **   **  " , "  **   **  " , " **    ** " , " **    ** ");
 		lines[2] = String.join("" , " **     ** " , " **     ** " , " **    ** " , " **       ");
